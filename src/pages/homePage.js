@@ -1,6 +1,5 @@
 import React from "react";
 import TestComp from "../components/testComp";
-
 const Home = () => {
   return (
     <div>
